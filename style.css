@@ -1,0 +1,7 @@
+.descendant * {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    border: 3px dashed green;
+}
